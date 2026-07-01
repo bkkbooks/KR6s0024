@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6s0024/T/v1
+canonical_location: https://kanripo.org/bkk/KR6s0024/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵語雜名
+  identifiers:
+    krp: KR6s0024
+    cbeta: T54n2135
+    cbeta_old_id: T54n2135
+    authorityid: CA0001001
+    json_key: T2135
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2135.xml
+    old_id: T54n2135
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0024_000-T.yaml, hash: 'sha256:2a9e8d63d298bccce26ce1168f451590388ebdb6bfd9a17b299204938d801166'}
+  - {seq: 1, filename: KR6s0024_001-T.yaml, hash: 'sha256:8a5bae592c47b55ae3cd70cda43ba617f670ae81e0ea79cad10f64afb1bfa91e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6s0024_000-T.markers.yaml, hash: 'sha256:b38ef3995977caa98506382d065b0e810a7a8c5d655c98725677270e97a888e1'}
+  - {seq: 1, role: markers, filename: assets/KR6s0024_001-T.markers.yaml, hash: 'sha256:ecf67be1aa93e1469149312ed0d9a0b60cd12b12d7dca534e0fa6f332e95673c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0024_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7111
+  label: 梵語雜名
+  type: juan
+  level: 1
+hash: sha256:16aafe7ba709fab52a5eec980a758c2dbedcbfce0e34cb5825ded8e1a611e7ff

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0024/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵語雜名
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2135.xml
+    old_id: T54n2135
+hash: sha256:2a9e8d63d298bccce26ce1168f451590388ebdb6bfd9a17b299204938d801166
